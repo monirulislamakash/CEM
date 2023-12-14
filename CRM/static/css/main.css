@@ -1,0 +1,26 @@
+.product_pricing{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+.pricing_table{
+    display: flex !important;
+    justify-content: space-between !important;
+    padding: 0px !important;
+    width: 15rem;
+    padding:0px;
+    border-bottom: solid 5px #3B7DDD;
+    border-radius:0px;
+    box-shadow: 8px 4px 18px 3px;
+}
+.pricing_table_ul{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    line-height: 30px;
+}
+.pricing_table_li{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
